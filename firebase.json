@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "keepsolved-1001",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
